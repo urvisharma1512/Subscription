@@ -1,0 +1,15 @@
+{
+    "name": "subscription-product/subscription-product",
+    "description": "Trial",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [{
+        "name": "urvi sharma",
+        "email": "urvi.sharma@netsolutions.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Inc\\": "./inc" }
+    }
+}
